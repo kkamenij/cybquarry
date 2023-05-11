@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction myself
+title: О себе
 date: 2023-05-10
 categories: ["introduction_myself"]
 ---
