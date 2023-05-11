@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Intro
-date: 2021-05-10
+title: Introduction myself
+date: 2023-05-10
 categories: ["introduction_myself"]
 ---
 ![avatar](https://avatars.githubusercontent.com/u/97713799?v=4)
